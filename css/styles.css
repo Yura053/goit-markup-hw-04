@@ -112,6 +112,7 @@ bottom: -1px;
    height:4px;
 
    background-color:#404bbf;
+   border-radius: 2px;
 }
 
 
@@ -349,7 +350,7 @@ Team section
    background-color: #404bbf;
 }
 .team-social-icon {
-   fill: #ffffff;
+   fill:#f4f4fd;
 }
 
 /* Portfolio section */
@@ -472,11 +473,13 @@ Footer
    margin-bottom: 16px;
 }
 .footer-logo-header-logo{
- color:#4d5ae5  
+ color:#4d5ae5;
+   font-family: 'Raleway', sans-serif;
 }
 
 .footer-logo-span {
    color: #f4f4fd;
+     font-family: 'Raleway', sans-serif;
 }
 
 .footer-text {
